@@ -10,7 +10,7 @@ Then, select “yes” or “no” to answer the question: *Does Botium Toys cur
 | ----- | ----- | :---- |
 |  | x | Least Privilege |
 |  | x | Disaster recovery plans |
-| x |  | Password policies |
+|  | x | Password policies |
 |  | x | Separation of duties |
 | x |  | Firewall |
 |  | x | Intrusion detection system (IDS) |
@@ -56,8 +56,12 @@ System and Organizations Controls (SOC type 1, SOC type 2\)
 |  | x | User access policies are established. |
 |  | x | Sensitive data (PII/SPII) is confidential/private. |
 | x |  | Data integrity ensures the data is consistent, complete, accurate, and has been validated. |
-| x |  | Data is available to individuals authorized to access it. |
+|  | x | Data is available to individuals authorized to access it. |
 
 ---
 
 This section is *optional* and can be used to provide a summary of recommendations to the IT manager regarding which controls and/or compliance best practices Botium Toys needs to implement, based on the risk posed if not implemented in a timely manner.
+
+- Controls need to be implemented to improve the company's posture.
+- Include: Least Privilege, disaster recovery plans, password policies, separation of duties, IDS, encryption, and password management system
+- Properly classify assets and identify controls that may need to be implemented to improve their security posture and better protect information and data.
